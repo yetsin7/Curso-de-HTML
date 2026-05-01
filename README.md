@@ -4,7 +4,7 @@ Repositorio oficial: <https://github.com/yetsin7/Curso-de-HTML>
 
 ## Documentacion de referencia
 
-Consulta [Doc-HTML.md](./Doc-HTML.md) para estudiar HTML con enlaces oficiales
+Consulta [Documentación-HTML.md](./Documentación-HTML.md) para estudiar HTML con enlaces oficiales
 y una ruta clara de temas.
 
 ## Para que sirve este curso
